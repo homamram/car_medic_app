@@ -1,0 +1,1 @@
+enum TypeServices { electric, mechanic, others, all }
